@@ -8,14 +8,13 @@ subtitle: A tutorial page to get started with your IoT projects
 description:
 author: Thomas Crumrine
 theme_author: Xcat Liu
-author_link: https://github.com/xcatliu
 language:
 - en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://js-index.com
+url: https://shrouded-tundra-81147.herokuapp.com/
 root: /
 permalink: :lang/i/:title.html
 permalink_defaults:
