@@ -29,6 +29,7 @@
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-deployer-git": "^0.2.0",
+    "hexo-deployer-heroku": "^0.1.1",
     "hexo-filter-author-from-git": "^0.1.0",
     "hexo-filter-date-from-git": "^0.1.0",
     "hexo-generator-archive-alphabet-i18n": "^0.1.0",

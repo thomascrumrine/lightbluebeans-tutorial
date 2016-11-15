@@ -3,15 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: JS Index
-subtitle: The index of everything about JavaScript
+title: LightBlue Beans
+subtitle: A tutorial page to get started with your IoT projects
 description:
-author: Xcat Liu
+author: Thomas Crumrine
+theme_author: Xcat Liu
 author_link: https://github.com/xcatliu
 language:
 - en
-- zh-cn
-- ja
 timezone:
 
 # URL
@@ -73,9 +72,6 @@ theme: wiki-i18n
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:xcatliu/js-index.git
-  branch: gh-pages
+  type: heroku
+  repo: https://git.heroku.com/shrouded-tundra-81147.git
   message:
-
-github: https://github.com/xcatliu/js-index

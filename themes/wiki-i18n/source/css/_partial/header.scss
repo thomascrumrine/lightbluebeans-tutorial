@@ -1,7 +1,7 @@
 @import 'variables';
 
 .header {
-  background: $color-yellow;
+  background: #FFFFFF;
 }
 
 .header-content {
@@ -12,6 +12,7 @@
   margin: 0;
   font-size: $font-size-big;
   display: inline-block;
+  color: $color-ptd-gray;
 }
 
 .header-link {
